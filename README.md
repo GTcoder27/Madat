@@ -1,1 +1,1 @@
-# SalesBot
+# Madat - Emergency messaging system
